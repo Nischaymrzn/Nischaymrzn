@@ -130,7 +130,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nischaymrzn/Nischaymrzn/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Nischaymrzn/Nischaymrzn/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
